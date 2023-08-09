@@ -13,16 +13,24 @@ https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-p
 The dataset consists of following five features of 200 customers:
 
   1.CustomerID: Unique ID assigned to the customer
+  
   2.Gender: Gender of the customer
+  
   3.Age: Age of the customer
+  
   4.Annual Income (k$): Annual Income of the customer
+  
   5.Spending Score (1-100): Score assigned by the mall based on customer behavior and spending nature.
 
 **Results derived from Visualizations:**
 
   1.The data has nearly gaussian distribution.
+  
   2.Customers with low annual income have relatively low spending scores.
+  
   3.Customers with fair enough income spend the most.
+  
   4.Females tend to spend less after age 50 and spend more before 50 as compared to males but the difference is not too significant.
+  
   5.People of smaller ages spend less.
   6.Average age of cutomers is between 30 to 40 years.
